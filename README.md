@@ -13,4 +13,4 @@ This project involves analysis for Atliq Hardware,a prominent hardware productio
 3. Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
 
 # Dashboard
-# https://app.powerbi.com/view?r=eyJrIjoiN2FiNDhkOWItNGY1Zi00YjkyLWE5ZWMtYzUxMDM3MTY2MjkxIiwidCI6IjRhMzVhMTg0LWJmNDMtNDIwZS05ZjI1LTUwZTI4NmY1ODcxMyJ9
+ https://app.powerbi.com/view?r=eyJrIjoiN2FiNDhkOWItNGY1Zi00YjkyLWE5ZWMtYzUxMDM3MTY2MjkxIiwidCI6IjRhMzVhMTg0LWJmNDMtNDIwZS05ZjI1LTUwZTI4NmY1ODcxMyJ9
